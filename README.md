@@ -3,17 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alokbhanawat&label=Profile%20views&color=0e75b6&style=flat" alt="alokbhanawat" /> </p>
 
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=alokbhanawat" alt="alokbhanawat" />
-    </a> 
-</p>
-<br>
-<p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=alokbhanawat" alt="alokbhanawat" />
-    </a> 
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokbhanawat" alt="alokbhanawat" /></a> </p>
 
 - 🔭 I’m currently working on **Non-Profitable Organisation**
 
